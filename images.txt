@@ -2,10 +2,10 @@ codercom/code-server:latest
 linuxserver/qbittorrent:latest
 zerotier/zerotier-synology:latest
 xhofe/alist-aria2
-portainer/portainer-ce:lates
 lvxj11/erpnext:latest
 twentycrm/twenty-front:latest
 lcomplete/huntly:latest
 vikunja/vikunja:latest
 lvxj11/erpnext:latest 
 fogforest/yesplaymusic:latest 
+portainer/portainer-ce:lates
