@@ -1,2 +1,2 @@
 xhofe/alist2:latest
-zerotier/zerotier-synology:latest
+
