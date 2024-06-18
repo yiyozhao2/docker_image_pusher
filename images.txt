@@ -1,5 +1,5 @@
 codercom/code-server:latest
 linuxserver/qbittorrent:latest
 zerotier/zerotier-synology:latest
-portainer/portainer-ce:lates
 xhofe/alist-aria2
+portainer/portainer-ce:lates
