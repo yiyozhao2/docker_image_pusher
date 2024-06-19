@@ -1,3 +1,4 @@
+lcomplete/huntly:latest
 codercom/code-server:latest
 linuxserver/qbittorrent:latest
 zerotier/zerotier-synology:latest
