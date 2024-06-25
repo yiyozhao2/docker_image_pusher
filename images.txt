@@ -1,3 +1,4 @@
+hexlo/terraria-server-docker:latest
 lcomplete/huntly:latest
 codercom/code-server:latest
 linuxserver/qbittorrent:latest
