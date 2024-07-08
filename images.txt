@@ -1,3 +1,4 @@
+zerotier/zerotier-synology:latest
 hexlo/terraria-server-docker:latest
 lcomplete/huntly:latest
 codercom/code-server:latest
