@@ -1,14 +1,2 @@
 zerotier/zerotier:latest
-hexlo/terraria-server-docker:latest
-lcomplete/huntly:latest
-codercom/code-server:latest
-linuxserver/qbittorrent:latest
-zerotier/zerotier-synology:latest
-xhofe/alist-aria2
-lvxj11/erpnext:latest
-twentycrm/twenty-front:latest
-lcomplete/huntly:latest
-vikunja/vikunja:latest
-lvxj11/erpnext:latest 
-fogforest/yesplaymusic:latest 
-portainer/portainer-ce:lates
+
