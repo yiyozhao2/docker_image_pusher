@@ -1,4 +1,4 @@
-alist-aria2:latest
+
 yesplaymusic:latest
 fjlzwl/nastool:latest
 jonnyan404/mrdoc-nginx:latest
@@ -13,3 +13,4 @@ linuxserver/qbittorrent:latest
 codercom/code-server:latest 
 portainer/portainer-ce:latest
 mzz2017/v2raya:latest
+alist-aria2:latest
