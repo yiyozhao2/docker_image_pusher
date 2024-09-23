@@ -9,3 +9,4 @@ jonnyan404/mrdoc-nginx:latest
 xhofe/alist-aria2:latest
 fjlzwl/nastool:latest
 xhofe/alist-aria2:latest
+jonnyan404/mrdoc-nginx:latest
