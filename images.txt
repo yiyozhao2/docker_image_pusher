@@ -9,4 +9,6 @@ linuxserver/qbittorrent:latest
 codercom/code-server:latest 
 portainer/portainer-ce:latest
 mzz2017/v2raya:latest
+fogforest/yesplaymusic:latest
+
 
