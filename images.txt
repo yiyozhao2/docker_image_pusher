@@ -1,2 +1,3 @@
-zerotier/zerotier:latest
-
+linuxserver/qbittorrent:latest
+codercom/code-server:latest 
+portainer/portainer-ce:latest
