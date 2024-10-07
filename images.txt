@@ -1,4 +1,4 @@
-ERPNext lvxj11/erpnext:latest
+lvxj11/erpnext:latest
 jonnyan404/mrdoc-nginx:latest
 xhofe/alist-aria2:latest
 fjlzwl/nastool:latest
