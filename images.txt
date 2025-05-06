@@ -1,6 +1,5 @@
 operepo/ope-codecombat:latest
 
-lscr.io/linuxserver/emulatorjs:latest
 lvxj11/erpnext:latest
 nyanmisaka/jellyfin:latest
 yohe/nastool:latest
