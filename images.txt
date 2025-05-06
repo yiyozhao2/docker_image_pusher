@@ -1,5 +1,5 @@
 operepo/ope-codecombat:latest
-soroke/istoreos:latest
+
 lscr.io/linuxserver/emulatorjs:latest
 lvxj11/erpnext:latest
 nyanmisaka/jellyfin:latest
