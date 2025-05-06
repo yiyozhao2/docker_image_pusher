@@ -1,4 +1,11 @@
+operepo/ope-codecombat:latest
+soroke/istoreos:latest
+lscr.io/linuxserver/emulatorjs:latest
 lvxj11/erpnext:latest
+nyanmisaka/jellyfin:latest
+yohe/nastool:latest
+linuxserver/jackett:latest
+linuxserver/qbittorrent:latest
 
 jonnyan404/mrdoc-nginx:latest
 xhofe/alist-aria2:latest
