@@ -1,3 +1,4 @@
+lscr.io/linuxserver/qbittorrent:latest
 codercom/code-server:latest
 linuxserver/heimdall:latest
 operepo/ope-codecombat:latest
