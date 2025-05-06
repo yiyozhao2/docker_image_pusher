@@ -1,22 +1,4 @@
-operepo/ope-codecombat:latest
+codercom/code-server:latest
 
-nyanmisaka/jellyfin:latest
-yohe/nastool:latest
-linuxserver/jackett:latest
-
-jonnyan404/mrdoc-nginx:latest
-xhofe/alist-aria2:latest
-fjlzwl/nastool:latest
-jonnyan404/mrdoc-nginx:latest
-linuxserver/chevereto:latest
-linuxserver/heimdall:latest
-linuxserver/qbittorrent:latest
-codercom/code-server:latest 
-portainer/portainer-ce:latest
-mzz2017/v2raya:latest
-fogforest/yesplaymusic:latest
-soroke/istoreos:latest
-lscr.io/linuxserver/emulatorjs:latest
-lvxj11/erpnext:latest
 
 
